@@ -7,3 +7,4 @@
 
 ![Enlace a la imagen](https://git-scm.com/images/branching-illustration@2x.png)
 
+[ruta a tu repositorio en Github](https://github.com/KHARHEM/git_2025-10-27_kharhem/tree/master)
